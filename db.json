@@ -102,6 +102,14 @@
       ]
     },
     {
+      "0": {
+        "id": 7,
+        "username": "steuber"
+      },
+      "1": {
+        "id": 4,
+        "username": "ann"
+      },
       "id": 6,
       "title": "Marriage of a Thousand Lies",
       "subtitle": "",
@@ -120,6 +128,14 @@
       ]
     },
     {
+      "0": {
+        "id": 3,
+        "username": "marvin"
+      },
+      "1": {
+        "id": 5,
+        "username": "feels-like-summer"
+      },
       "id": 7,
       "title": "The Collected Schizophrenias",
       "subtitle": "",
